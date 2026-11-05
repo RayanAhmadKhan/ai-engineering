@@ -1,8 +1,8 @@
-# Day 1: Tokenizer Explorer
+# Tokenizer Explorer
 
-An interactive tokenizer explorer using OpenAI's `o200k_base` encoding. The
-project displays token IDs and their byte representations, then verifies that
-the text can be reconstructed from the tokens.
+An interactive tokenizer explorer using OpenAI's `o200k_base` encoding. It
+displays token IDs and their byte representations, then verifies that the text
+can be reconstructed from the tokens.
 
 ## Run
 

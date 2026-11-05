@@ -1,13 +1,13 @@
-# AI Engineering — 30 Days
+# AI Engineering
 
-A hands-on journey into AI engineering, LLMs, AI agents, RAG, MCP, tool
-calling, and AI system architecture.
+A practical portfolio of AI engineering experiments, implementations, and
+system architecture work covering LLMs, AI agents, RAG, MCP, and tool calling.
 
 ## Objective
 
-The goal of this journey is to develop practical AI engineering skills by
-understanding concepts, designing architectures, implementing systems, and
-testing real-world applications.
+The goal of this repository is to develop and demonstrate practical AI
+engineering skills by understanding concepts, designing architectures,
+implementing systems, and testing real-world applications.
 
 Rather than building only chatbot demos, this repository focuses on the
 engineering decisions and system components behind reliable AI applications.
@@ -26,25 +26,23 @@ engineering decisions and system components behind reliable AI applications.
 - Docker
 - Langfuse
 
-## Learning Roadmap
+## Areas of Focus
 
-| Week | Focus | Status |
-| --- | --- | --- |
-| Week 1 | LLM Fundamentals and Internals | In Progress |
-| Week 2 | LLM Engineering and RAG | Pending |
-| Week 3 | Tooling, MCP, Skills, and Agents | Pending |
-| Week 4 | AI Infrastructure and Architecture | Pending |
+- LLM fundamentals and internals
+- Prompt engineering and evaluation
+- Embeddings and semantic search
+- Retrieval-augmented generation (RAG)
+- Tool calling and MCP
+- AI agents and orchestration
+- AI infrastructure and system architecture
 
-## Daily Projects
+## Projects
 
-| Day | Project / Topic | Status |
-| --- | --- | --- |
-| 01 | [Tokenizer Explorer](./day-01-tokenizer/) | Completed |
-| 02 | Semantic Similarity Explorer | Pending |
-| 03 | Transformer Architecture | Pending |
-| 04 | Self-Attention Implementation | Pending |
+| Project | Description |
+| --- | --- |
+| [Tokenizer Explorer](./tokenizer-explorer/) | Inspect token IDs, byte representations, and round-trip decoding |
 
-More projects will be added throughout the journey.
+Additional projects and experiments will be added as the portfolio grows.
 
 ## Engineering Philosophy
 
@@ -59,4 +57,4 @@ Every project follows this process:
 ## Progress
 
 This repository documents practical learning, experiments, implementations,
-and architectural decisions throughout the 30-day journey.
+and architectural decisions as the portfolio evolves.
